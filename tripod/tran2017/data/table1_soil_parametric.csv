@@ -1,0 +1,11 @@
+parameter,symbol,unit_as_printed,medium_sand,dense_sand,unit_SI,medium_SI,dense_SI,note
+Effective unit weight,gamma',tf/m3,0.9,1,kN/m3,8.829,9.81,printed in tf/m3; x9.81 reproduces all 36 Table 6 'Proposed' values to 0.005 MNm (9 and 10 kN/m3 do not: up to 11 MNm off)
+Janbu modulus number,lambda,-,400,600,-,400,600,"Eq.(1) Es = lambda*pa*(sigma_m/pa)^j, pa = 100 kPa, sigma_m = MEAN principal stress"
+Stress index,j,-,0.6,0.55,-,0.6,0.55,
+Poisson's ratio,nu',-,0.25,0.25,-,0.25,0.25,
+Internal friction angle,phi',deg,35,38,deg,35,38,non-associative Mohr-Coulomb
+Dilation angle,psi',deg,5,8,deg,5,8,text: Ho rises ~0.9% per degree of psi (Sec. 4.1)
+Cohesion,c,kPa,0.1,0.1,kPa,0.1,0.1,numerical cohesion
+Interface friction angle,delta,-,2phi'/3,2phi'/3,deg,23.333,25.333,Sec. 2.1 text (not in Table 1); Coulomb friction + hard contact allowing separation
+Relative density,Dr,-,not given,not given,-,,,Table 1 sands are only labelled medium/dense (EAU 2004)
+K0 for initial stresses,K0,-,not given,not given,-,,,only Eq.(11)-(12) uses K = Ko = 1 - sin(phi') for the pull-out estimate

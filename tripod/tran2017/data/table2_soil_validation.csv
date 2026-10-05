@@ -1,0 +1,8 @@
+parameter,unit_as_printed,Sandy_Haven(Achmus2013),Frederikshavn(Achmus2013),Silty_sand(Kim2013_2014b),Silt(Kim2013_2014b)
+Effective unit weight gamma',tf/m3,0.9,1.1,0.95,0.85
+Janbu modulus number lambda,-,500,600,100,120
+Stress index j,-,0.57,0.55,0.75,0
+Poisson's ratio nu',-,0.25,0.25,0.3,0.3
+Internal friction angle phi',deg,35.5,38,35,34
+Dilation angle psi',deg,5.5,8,5,4
+Cohesion c,kPa,0.1,0.1,16.1,5.2

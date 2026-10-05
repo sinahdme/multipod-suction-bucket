@@ -1,0 +1,22 @@
+Tripod (Kim et al. 2014 case, runs_v47, 18-step sweep 0.03-4 deg, azimuth 0): discretisation convergence of the moment M [MN.m]
+d% = change relative to the reference n = 40 / n_l = 25; max|d%| = largest |change| over the 18 sweep steps; wall = queue wall time [min] at 2 concurrent MATLAB instances (minute resolution; blank if no log)
+
+(a) n strips per circumference, n_l = 25
+      n | M(0.5)   d%   | M(1)   d%   | M(2)   d%   | M(4)   d%   | max|d%| | wall
+      8 |   96.5  -0.47 |  111.2  -0.65 |  126.5  -1.03 |  137.8  -0.11 |  1.16 (1.50 deg) | 
+     16 |   96.8  -0.16 |  111.8  -0.15 |  127.6  -0.17 |  137.9  -0.06 |  0.33 (3.50 deg) | 
+     24 |   96.9  -0.06 |  111.9  -0.06 |  127.7  -0.09 |  138.0  -0.00 |  0.40 (3.00 deg) | 
+     32 |   96.9  -0.04 |  111.9   0.01 |  127.9   0.08 |  138.3   0.27 |  0.27 (4.00 deg) | 
+     40 |   96.9   0.00 |  111.9   0.00 |  127.8   0.00 |  138.0   0.00 |  0.00 (0.03 deg) | 
+
+(b) n_l levels along the skirt, n = 40
+    n_l | M(0.5)   d%   | M(1)   d%   | M(2)   d%   | M(4)   d%   | max|d%| | wall
+      5 |   96.3  -0.67 |  110.7  -1.14 |  126.0  -1.42 |  136.3  -1.22 |  3.68 (0.05 deg) | 
+     10 |   97.0   0.09 |  111.9  -0.03 |  127.9   0.06 |  137.9  -0.05 |  0.58 (0.30 deg) | 
+     15 |   97.1   0.22 |  111.8  -0.07 |  127.8  -0.05 |  138.0   0.03 |  0.64 (0.05 deg) | 
+     20 |   97.0   0.10 |  111.9  -0.07 |  127.9   0.08 |  137.9  -0.05 |  1.37 (0.03 deg) | 
+     25 |   96.9   0.00 |  111.9   0.00 |  127.8   0.00 |  138.0   0.00 |  0.00 (0.03 deg) | 
+
+(c) combined n = n_l = 16 (tetrapod discretisation) vs the reference 40 / 25
+n / n_l | M(0.5)   d%   | M(1)   d%   | M(2)   d%   | M(4)   d%   | max|d%| | wall
+  16/16 |   96.9  -0.00 |  111.6  -0.26 |  127.6  -0.20 |  137.7  -0.22 |  1.24 (0.03 deg) | 

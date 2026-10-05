@@ -1,0 +1,4 @@
+# results written by run_paper_cases.m and the post-processing
+results/
+__pycache__/
+*.asv

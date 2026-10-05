@@ -1,0 +1,10 @@
+item,value,unit,note
+case,tripod L/D=0.75 S/D=2.5 medium sand (D=6 m; V=10 MN per Section 2.3/Case 1),-,Fig. 5 caption
+initial_tangent_stiffness,423.3,MN/m,dashed line through origin fitted to its dash segments: h = 0.00025 + 0.002363*H
+final_tangent_intercept,21.803,MN,dashed line fitted to its free dash segments (h = 0.05-0.21 m): H = a + b*h
+final_tangent_slope,8.202,MN/m,the dashed line coincides with the curve for h ~ 0.25-0.5 m (tangent to the final part)
+tangent_intersection_h,0.0528,m,computed intersection of the two fitted dashed lines
+tangent_intersection_H,22.236,MN,computed intersection of the two fitted dashed lines
+horizontal_dash_level_H,22.048,MN,horizontal dashed line drawn from the intersection to the curve
+Ho_marker_h,0.1523,m,filled dot labelled Ho (on the curve)
+Ho_marker_H,22.063,MN,filled dot labelled Ho; Ho = load at the tangent intersection projected horizontally onto the curve

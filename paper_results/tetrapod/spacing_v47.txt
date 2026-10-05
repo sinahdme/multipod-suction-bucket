@@ -1,0 +1,34 @@
+Tetrapod spacing family, 0 deg (load between buckets), L/D = 1: model vs Barari et al. (2023) Fig. 23 FE (digitised, +/-3-5%).
+  S/D = 2.5: S = 16.25 m, V = 1.11 MN, pull-out bound per bucket 2.64 MN, file barari_validation_results_fix_sd25_V1110_d0_v47.mat
+  S/D = 3.0: S = 19.50 m, V = 1.11 MN, pull-out bound per bucket 2.64 MN, file barari_validation_results_fix_V1110_d0_v47.mat
+  S/D = 4.0: S = 26.00 m, V = 1.11 MN, pull-out bound per bucket 2.64 MN, file barari_validation_results_fix_sd40_V1110_d0_v47.mat
+M in MN.m; FE interpolated linearly at the model rotations.
+
+ theta | S/D = 2.5: M      FE    M/FE | S/D = 3.0: M      FE    M/FE | S/D = 4.0: M      FE    M/FE |
+  0.50 |        147.1  130.0   1.13 |        170.6  138.0   1.24 |        217.6  200.0   1.09 |
+  0.75 |        155.8  140.0   1.11 |        179.1  155.0   1.16 |        225.7  220.0   1.03 |
+  1.00 |        161.3  150.0   1.08 |        184.4  172.0   1.07 |        230.6  240.0   0.96 |
+  1.25 |        164.9  156.2   1.06 |        187.6  181.0   1.04 |        233.6  247.5   0.94 |
+  1.50 |        167.4  162.5   1.03 |        190.1  190.0   1.00 |        235.9  255.0   0.92 |
+  2.00 |        170.6  175.0   0.98 |        193.3  205.0   0.94 |        238.5  270.0   0.88 |
+  3.00 |        172.2  195.0   0.88 |        194.3  230.0   0.84 |        239.5  290.0   0.83 |
+  4.00 |        172.5  210.0   0.82 |        195.0  248.0   0.79 |        230.6  305.0   0.76 |
+  5.00 |        172.5  228.2   0.76 |        194.6  261.7   0.74 |        192.6  317.7   0.61 |
+
+Couple-equivalent vertical force per bucket pair, M/(sqrt2 S) [MN] (pairs at +/- S/sqrt2 along the load); rigid-plastic plateau of the
+model (V + 4T)/2 per pair, S/D 2.5: 5.83, S/D 3.0: 5.83, S/D 4.0: 5.83 MN (spacing-independent).
+ theta | S/D = 2.5: model    FE  | S/D = 3.0: model    FE  | S/D = 4.0: model    FE  |
+  0.50 |           6.40  5.66  |           6.19  5.00  |           5.92  5.44  |
+  1.00 |           7.02  6.53  |           6.69  6.24  |           6.27  6.53  |
+  2.00 |           7.42  7.61  |           7.01  7.43  |           6.49  7.34  |
+  3.00 |           7.49  8.49  |           7.05  8.34  |           6.51  7.89  |
+  4.00 |           7.51  9.14  |           7.07  8.99  |           6.27  8.29  |
+  5.00 |           7.51  9.93  |           7.06  9.49  |           5.24  8.64  |
+
+Skirt friction of the pulled-up buckets (min over buckets) and of the pushed-down buckets (max) [MN, + = downward reaction on the bucket]:
+ theta | S/D = 2.5: lifted pushed | S/D = 3.0: lifted pushed | S/D = 4.0: lifted pushed |
+  0.50 |         -2.64   2.89  |         -2.64   2.89  |         -2.64   2.89  |
+  1.00 |         -2.64   2.80  |         -2.64   2.81  |         -2.64   2.81  |
+  2.00 |         -2.64   2.64  |         -2.64   2.64  |         -2.64   2.65  |
+  5.00 |         -2.64   2.46  |         -2.64   2.47  |         -1.88   1.73  |
+Fig. 20B (S/D = 3, 0 deg) at 1 / 2 / 5 deg: 168 / 202 / 255 MN.m; Fig. 23 S/D = 3: 172 / 205 / 262 (digitisation consistency)

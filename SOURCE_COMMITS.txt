@@ -1,0 +1,4 @@
+Source commits of the code in this package (local v2 repositories, derived from github.com/sinahdme):
+  tripod-suction-bucket-v2  a7a071fe48bac75a40d03259112b492dde4b9b9a
+  tetrapod-suction-bucket-v2  940b3ad7f63e1083675221e49dc2f63559f68500
+  monopod-suction-bucket-v2  2fcce89557ab6fd0de1b3494dd1584c17385b10c

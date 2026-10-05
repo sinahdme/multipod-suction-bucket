@@ -1,0 +1,340 @@
+# Kim et al. (2014) JGGE 140(5):04014008, p.04014008-7, Fig. 7 (embedded grayscale JPEG 696x472 px, no vector data); calibrated on tick marks (residual <0.5 px); 1 px = 0.0194 deg x 0.845 MN.m. T2 tripod, first loading branch (backbone) to 5.22 deg; reloading after 2.08 deg is joined (it rejoins the backbone).
+theta_deg,M_MNm,note
+0.0000,0.0000,origin (assumed)
+0.0104,4.5893,low-confidence: merged with T1/T4/y-axis
+0.0104,5.4342,low-confidence: merged with T1/T4/y-axis
+0.0104,7.9689,low-confidence: merged with T1/T4/y-axis
+0.0104,8.8137,low-confidence: merged with T1/T4/y-axis
+0.0104,9.6586,low-confidence: merged with T1/T4/y-axis
+0.0197,13.0382,low-confidence: merged with T1/T4/y-axis
+0.0203,13.8831,low-confidence: merged with T1/T4/y-axis
+0.0244,14.7279,low-confidence: merged with T1/T4/y-axis
+0.0104,15.5728,low-confidence: merged with T1/T4/y-axis
+0.0104,17.2626,low-confidence: merged with T1/T4/y-axis
+0.0104,18.9524,low-confidence: merged with T1/T4/y-axis
+0.0104,19.7972,low-confidence: merged with T1/T4/y-axis
+0.0325,20.6421,low-confidence: merged with T1/T4/y-axis
+0.0224,21.4870,low-confidence: merged with T1/T4/y-axis
+0.0117,22.3319,low-confidence: merged with T1/T4/y-axis
+0.0104,23.1768,low-confidence: merged with T1/T4/y-axis
+0.0735,24.8666,row-wise centroid (steep)
+0.0684,25.7114,row-wise centroid (steep)
+0.0788,26.5563,row-wise centroid (steep)
+0.0832,27.4012,row-wise centroid (steep)
+0.0878,28.2461,row-wise centroid (steep)
+0.0909,29.0910,row-wise centroid (steep)
+0.0794,29.9359,row-wise centroid (steep)
+0.0942,30.7807,row-wise centroid (steep)
+0.0854,31.6256,row-wise centroid (steep)
+0.0897,32.4705,row-wise centroid (steep)
+0.0989,33.3154,row-wise centroid (steep)
+0.0916,34.1603,row-wise centroid (steep)
+0.0955,35.0052,row-wise centroid (steep)
+0.0988,35.8501,row-wise centroid (steep)
+0.1074,36.6949,row-wise centroid (steep)
+0.1154,37.5398,row-wise centroid (steep)
+0.1178,38.3847,row-wise centroid (steep)
+0.1233,39.2296,row-wise centroid (steep)
+0.1202,40.0745,row-wise centroid (steep)
+0.1178,40.9194,row-wise centroid (steep)
+0.1273,41.7642,row-wise centroid (steep)
+0.1311,42.6091,row-wise centroid (steep)
+0.1339,43.4540,row-wise centroid (steep)
+0.1255,44.2989,row-wise centroid (steep)
+0.1198,45.1438,row-wise centroid (steep)
+0.1230,45.9887,row-wise centroid (steep)
+0.1325,46.8336,row-wise centroid (steep)
+0.1403,47.6784,row-wise centroid (steep)
+0.1509,48.5233,row-wise centroid (steep)
+0.1580,49.3682,row-wise centroid (steep)
+0.1687,50.2131,row-wise centroid (steep)
+0.1675,51.0580,row-wise centroid (steep)
+0.1652,51.9029,row-wise centroid (steep)
+0.1617,52.7477,row-wise centroid (steep)
+0.1572,53.5926,row-wise centroid (steep)
+0.1633,54.4375,row-wise centroid (steep)
+0.1683,55.2824,row-wise centroid (steep)
+0.1694,56.1273,row-wise centroid (steep)
+0.1743,56.9722,row-wise centroid (steep)
+0.1823,57.8170,row-wise centroid (steep)
+0.1865,58.6619,row-wise centroid (steep)
+0.1874,59.5068,row-wise centroid (steep)
+0.1899,60.3517,row-wise centroid (steep)
+0.2021,61.1966,row-wise centroid (steep)
+0.2127,62.0415,row-wise centroid (steep)
+0.2255,62.8864,row-wise centroid (steep)
+0.2345,63.7312,row-wise centroid (steep)
+0.2418,64.5761,row-wise centroid (steep)
+0.2488,65.4210,row-wise centroid (steep)
+0.2481,66.2659,row-wise centroid (steep)
+0.2436,67.1108,row-wise centroid (steep)
+0.2475,67.9557,row-wise centroid (steep)
+0.2470,68.8005,row-wise centroid (steep)
+0.2543,69.6454,row-wise centroid (steep)
+0.2571,70.4903,row-wise centroid (steep)
+0.2647,71.3352,row-wise centroid (steep)
+0.2714,72.1801,row-wise centroid (steep)
+0.2781,73.0250,row-wise centroid (steep)
+0.2770,73.8699,row-wise centroid (steep)
+0.2789,74.7147,row-wise centroid (steep)
+0.2893,75.5596,row-wise centroid (steep)
+0.3077,76.4045,row-wise centroid (steep)
+0.3265,77.2494,row-wise centroid (steep)
+0.3444,78.0943,row-wise centroid (steep)
+0.3560,78.9392,row-wise centroid (steep)
+0.3575,79.7840,row-wise centroid (steep)
+0.3635,80.6289,row-wise centroid (steep)
+0.3735,81.4738,row-wise centroid (steep)
+0.3932,82.3187,row-wise centroid (steep)
+0.4093,83.1636,row-wise centroid (steep)
+0.4292,84.0085,row-wise centroid (steep)
+0.4474,84.8534,row-wise centroid (steep)
+0.4669,85.6982,row-wise centroid (steep)
+0.4813,86.5431,row-wise centroid (steep)
+0.4929,87.3880,row-wise centroid (steep)
+0.5163,88.2329,row-wise centroid (steep)
+0.5231,89.0778,row-wise centroid (steep)
+0.5376,89.9227,row-wise centroid (steep)
+0.5544,90.0928,column-wise centroid
+0.5739,92.2573,column-wise centroid
+0.5933,92.9635,column-wise centroid
+0.6127,93.8940,column-wise centroid
+0.6321,94.8211,column-wise centroid
+0.6516,95.4769,column-wise centroid
+0.6710,96.4929,column-wise centroid
+0.6904,97.1967,column-wise centroid
+0.7099,98.3347,column-wise centroid
+0.7293,98.6446,column-wise centroid
+0.7487,98.8137,column-wise centroid
+0.7682,99.8424,column-wise centroid
+0.7876,100.3436,column-wise centroid
+0.8070,101.0837,column-wise centroid
+0.8265,101.9036,column-wise centroid
+0.8653,102.4420,column-wise centroid
+0.8847,103.2276,column-wise centroid
+0.9042,103.9595,column-wise centroid
+0.9236,105.0898,column-wise centroid
+0.9430,105.9538,column-wise centroid
+0.9625,106.4172,column-wise centroid
+0.9819,107.3123,column-wise centroid
+1.0013,107.7405,column-wise centroid
+1.0208,107.8832,column-wise centroid
+1.0402,108.2945,column-wise centroid
+1.0596,108.4226,column-wise centroid
+1.0790,108.7687,column-wise centroid
+1.0985,108.5713,column-wise centroid
+1.1179,108.4781,column-wise centroid
+1.1373,108.5687,column-wise centroid
+1.1568,108.4894,column-wise centroid
+1.1762,108.6688,column-wise centroid
+1.1956,108.7717,column-wise centroid
+1.2151,109.3653,column-wise centroid
+1.2345,109.7024,column-wise centroid
+1.2539,110.1569,column-wise centroid
+1.2733,110.4678,column-wise centroid
+1.2928,110.6052,column-wise centroid
+1.3122,111.1206,column-wise centroid
+1.3316,111.7087,column-wise centroid
+1.3511,112.1799,column-wise centroid
+1.3705,112.7504,column-wise centroid
+1.3899,113.3632,column-wise centroid
+1.4094,113.8776,column-wise centroid
+1.4288,114.5139,column-wise centroid
+1.4482,115.7327,column-wise centroid
+1.4676,115.4395,column-wise centroid
+1.4871,115.7179,column-wise centroid
+1.5065,115.9797,column-wise centroid
+1.5259,116.2812,column-wise centroid
+1.5454,116.5738,column-wise centroid
+1.5648,117.1045,column-wise centroid
+1.5842,117.3799,column-wise centroid
+1.6037,117.7279,column-wise centroid
+1.6231,117.7033,column-wise centroid
+1.6425,118.3993,column-wise centroid
+1.6620,118.9234,column-wise centroid
+1.6814,119.5345,column-wise centroid
+1.7008,120.1011,column-wise centroid
+1.7202,120.7070,column-wise centroid
+1.7202,120.7070,column-wise centroid
+1.7397,120.9678,column-wise centroid
+1.7397,121.0722,column-wise centroid
+1.7591,120.6989,column-wise centroid
+1.7591,120.3117,column-wise centroid
+1.7785,120.6571,"column-wise, T4 markers overlap"
+1.7980,122.8809,"column-wise, T4 markers overlap"
+1.8174,123.7107,"column-wise, T4 markers overlap"
+1.8368,124.1765,"column-wise, T4 markers overlap"
+1.8563,124.6328,"column-wise, T4 markers overlap"
+1.8757,125.1115,"column-wise, T4 markers overlap"
+1.8951,125.5387,"column-wise, T4 markers overlap"
+1.9145,125.5279,"column-wise, T4 markers overlap"
+1.9340,125.6077,column-wise centroid
+1.9534,125.6581,column-wise centroid
+1.9728,125.9251,column-wise centroid
+1.9923,126.3183,column-wise centroid
+2.0117,126.4020,column-wise centroid
+2.0311,126.8444,column-wise centroid
+2.0506,127.1550,column-wise centroid
+2.0700,125.3823,column-wise centroid
+2.0894,125.4144,column-wise centroid
+2.1088,124.8079,column-wise centroid
+2.1283,125.0584,column-wise centroid
+2.1477,125.6251,column-wise centroid
+2.1671,125.8141,column-wise centroid
+2.1866,126.2538,column-wise centroid
+2.2060,127.2441,column-wise centroid
+2.2254,128.5202,column-wise centroid
+2.2449,129.0667,column-wise centroid
+2.2643,129.8646,column-wise centroid
+2.2837,130.7710,column-wise centroid
+2.3032,131.0490,column-wise centroid
+2.3226,131.4587,column-wise centroid
+2.3420,131.8912,column-wise centroid
+2.3614,132.6731,column-wise centroid
+2.3809,132.8595,column-wise centroid
+2.4003,133.1528,column-wise centroid
+2.4197,134.1288,column-wise centroid
+2.4392,134.3722,column-wise centroid
+2.4586,134.9316,column-wise centroid
+2.4780,135.4599,column-wise centroid
+2.4975,135.7081,column-wise centroid
+2.5169,136.0666,column-wise centroid
+2.5363,136.3116,column-wise centroid
+2.5557,136.5313,column-wise centroid
+2.5752,136.5912,column-wise centroid
+2.5946,136.7110,column-wise centroid
+2.6140,136.8983,column-wise centroid
+2.6335,137.3357,column-wise centroid
+2.6529,138.0537,column-wise centroid
+2.6723,138.6091,column-wise centroid
+2.6918,139.3309,column-wise centroid
+2.7112,141.0090,column-wise centroid
+2.7306,140.9218,column-wise centroid
+2.7500,141.5655,column-wise centroid
+2.7695,141.8932,column-wise centroid
+2.7889,142.2400,column-wise centroid
+2.8083,142.4707,column-wise centroid
+2.8278,142.3960,column-wise centroid
+2.8472,142.2541,column-wise centroid
+2.8666,142.3421,column-wise centroid
+2.8861,143.0029,column-wise centroid
+2.9055,143.8707,column-wise centroid
+2.9249,144.2918,column-wise centroid
+2.9444,144.7425,column-wise centroid
+2.9638,145.4927,column-wise centroid
+2.9832,145.9596,column-wise centroid
+3.0026,146.1304,column-wise centroid
+3.0221,146.2991,column-wise centroid
+3.0415,146.4997,column-wise centroid
+3.0609,146.7842,column-wise centroid
+3.0804,146.8056,column-wise centroid
+3.0998,146.9879,column-wise centroid
+3.1192,147.6541,column-wise centroid
+3.1387,148.1622,column-wise centroid
+3.1581,149.1761,column-wise centroid
+3.1775,149.3143,column-wise centroid
+3.1969,149.6655,column-wise centroid
+3.2164,149.8160,column-wise centroid
+3.2358,150.0586,column-wise centroid
+3.2552,150.0502,column-wise centroid
+3.2747,150.3433,column-wise centroid
+3.2941,151.4475,column-wise centroid
+3.3135,151.3109,column-wise centroid
+3.3330,151.8930,column-wise centroid
+3.3524,152.3483,column-wise centroid
+3.3718,152.8191,column-wise centroid
+3.3912,153.7843,column-wise centroid
+3.4107,153.1359,column-wise centroid
+3.4301,153.0192,column-wise centroid
+3.4495,153.0777,column-wise centroid
+3.4690,153.3627,column-wise centroid
+3.4884,153.6898,column-wise centroid
+3.5078,154.3270,column-wise centroid
+3.5273,154.7171,column-wise centroid
+3.5467,155.0747,column-wise centroid
+3.5661,155.3298,column-wise centroid
+3.5856,155.7144,column-wise centroid
+3.6050,156.6000,column-wise centroid
+3.6244,157.1723,column-wise centroid
+3.6438,157.3657,column-wise centroid
+3.6633,157.4888,column-wise centroid
+3.6827,158.0905,column-wise centroid
+3.7021,158.3139,column-wise centroid
+3.7216,158.2562,column-wise centroid
+3.7410,158.2068,column-wise centroid
+3.7604,158.5149,column-wise centroid
+3.7799,159.0710,column-wise centroid
+3.7993,159.2816,column-wise centroid
+3.8187,159.6915,column-wise centroid
+3.8381,160.2651,column-wise centroid
+3.8576,160.4925,column-wise centroid
+3.8770,160.9340,column-wise centroid
+3.8964,161.1547,column-wise centroid
+3.9159,161.7167,column-wise centroid
+3.9353,162.0920,column-wise centroid
+3.9547,162.6105,column-wise centroid
+3.9742,162.7678,column-wise centroid
+3.9936,163.3263,column-wise centroid
+4.0130,163.5850,column-wise centroid
+4.0324,163.3164,column-wise centroid
+4.0519,163.3843,column-wise centroid
+4.0713,163.4681,column-wise centroid
+4.0907,163.5725,column-wise centroid
+4.1102,163.5705,column-wise centroid
+4.1296,161.7195,column-wise centroid
+4.1490,162.4627,column-wise centroid
+4.1685,162.8081,column-wise centroid
+4.1879,165.1906,column-wise centroid
+4.2073,166.2105,column-wise centroid
+4.2268,166.8647,column-wise centroid
+4.2462,167.3046,column-wise centroid
+4.2656,167.5109,column-wise centroid
+4.2850,167.5480,column-wise centroid
+4.3045,167.5840,column-wise centroid
+4.3239,167.6543,column-wise centroid
+4.3433,167.7091,column-wise centroid
+4.3628,167.6208,column-wise centroid
+4.3822,167.8200,column-wise centroid
+4.4016,168.1737,column-wise centroid
+4.4211,168.6478,column-wise centroid
+4.4405,168.6067,column-wise centroid
+4.4599,168.7728,column-wise centroid
+4.4793,169.3837,column-wise centroid
+4.4988,169.7765,column-wise centroid
+4.5182,169.9736,column-wise centroid
+4.5376,169.9876,column-wise centroid
+4.5571,170.0754,column-wise centroid
+4.5765,170.1778,column-wise centroid
+4.5959,170.4490,column-wise centroid
+4.6154,170.7560,column-wise centroid
+4.6348,171.1007,column-wise centroid
+4.6542,171.3994,column-wise centroid
+4.6736,171.9602,column-wise centroid
+4.6931,172.2022,column-wise centroid
+4.7125,172.5207,column-wise centroid
+4.7319,172.6891,column-wise centroid
+4.7514,172.9870,column-wise centroid
+4.7708,173.0899,column-wise centroid
+4.7902,173.1595,column-wise centroid
+4.8097,173.5446,column-wise centroid
+4.8291,173.9961,column-wise centroid
+4.8485,174.4341,column-wise centroid
+4.8679,174.8865,column-wise centroid
+4.8874,174.8193,column-wise centroid
+4.9068,175.0246,column-wise centroid
+4.9262,175.3688,column-wise centroid
+4.9457,175.6238,column-wise centroid
+4.9651,175.7366,column-wise centroid
+4.9845,175.9799,column-wise centroid
+5.0040,176.2611,column-wise centroid
+5.0234,176.4365,column-wise centroid
+5.0428,176.6438,column-wise centroid
+5.0623,176.7171,column-wise centroid
+5.0817,176.7851,column-wise centroid
+5.1011,177.2334,column-wise centroid
+5.1205,177.6189,column-wise centroid
+5.1400,178.0930,column-wise centroid
+5.1594,177.7746,column-wise centroid
+5.1788,177.5254,column-wise centroid
+5.1983,177.5868,column-wise centroid
+5.2177,177.4350,column-wise centroid

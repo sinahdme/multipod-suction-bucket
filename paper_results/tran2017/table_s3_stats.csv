@@ -1,0 +1,35 @@
+group,n,ratio,mean,min,max
+all,23,ratio_pushpull_FE,0.942,0.861,1.012
+all,23,ratio_knee_FE,0.999,0.932,1.095
+all,23,ratio_TIM_FE,1.280,1.052,1.573
+L/D=1,12,ratio_pushpull_FE,0.930,0.861,0.998
+L/D=1,12,ratio_knee_FE,1.009,0.932,1.095
+L/D=1,12,ratio_TIM_FE,1.391,1.246,1.573
+L/D<1,11,ratio_pushpull_FE,0.956,0.889,1.012
+L/D<1,11,ratio_knee_FE,0.989,0.951,1.050
+L/D<1,11,ratio_TIM_FE,1.160,1.052,1.330
+dense,12,ratio_pushpull_FE,0.922,0.861,0.990
+dense,12,ratio_knee_FE,0.978,0.932,1.021
+dense,12,ratio_TIM_FE,1.285,1.052,1.573
+medium,11,ratio_pushpull_FE,0.964,0.926,1.012
+medium,11,ratio_knee_FE,1.023,0.979,1.095
+medium,11,ratio_TIM_FE,1.275,1.075,1.560
+all (sensitivity),23,ratio_prev_step_FE,0.890,0.755,1.005
+all (sensitivity),23,ratio_vertex_FE,0.993,0.920,1.090
+all (sensitivity),23,ratio_bound100_FE,1.022,0.951,1.173
+all (sensitivity),23,ratio_stiffdrop_FE,0.987,0.902,1.095
+all (sensitivity),23,knee_over_PP,1.061,1.010,1.140
+all (sensitivity),23,_own_share,0.059,0.019,0.123
+all (sensitivity),23,_py_share,0.050,0.015,0.118
+all (sensitivity),23,_rock_share,0.009,0.003,0.048
+all (sensitivity),23,_VCPP,-0.002,-0.011,0.001
+L/D=1 (post-knee),12,M4_over_FE,1.471,1.326,1.658
+L/D=1 (post-knee),12,M4_over_knee,1.460,1.273,1.634
+L/D=1 (post-knee),12,theta_peak_deg,4.000,4.000,4.000
+L/D=1 (post-knee),12,_own_share,0.080,0.053,0.123
+L/D<1 (post-knee),11,M4_over_FE,1.064,0.866,1.370
+L/D<1 (post-knee),11,M4_over_knee,1.078,0.867,1.430
+L/D<1 (post-knee),11,theta_peak_deg,2.341,1.250,4.000
+L/D<1 (post-knee),11,_peak_FE,1.265,1.104,1.373
+L/D<1 (post-knee),11,fr_rear_over_T_4deg,0.468,0.148,1.000
+L/D<1 (post-knee),11,_own_share,0.035,0.019,0.071

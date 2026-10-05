@@ -1,0 +1,405 @@
+# Kim et al. (2014) p.04014008-9, Fig. 10 (embedded grayscale JPEG 682x679, raster): curve "T2: Monotonic" (thick dark-gray band, gray level 50-98), column-wise centroid; calibrated on ticks (res <0.3 px); 1 px = 0.0042 deg x 0.848 MN.m. Below 0.155 deg (M<49) the T2 band is hidden under the T3 S1-S7 loops and is not digitised. Points flagged "S8-overlap" (1.25-1.48 deg) lie where the T2 band is buried under the S8 loop peaks and are biased up by up to ~3 MN.m; points near 0.3-0.5 and 1.45-1.55 deg cross S6/S9 markers.
+theta_deg,M_MNm,note
+0.1548,48.75,clean
+0.1591,50.00,clean
+0.1633,51.24,clean
+0.1675,52.08,clean
+0.1718,53.28,clean
+0.1760,54.55,clean
+0.1803,57.21,clean
+0.1845,58.96,clean
+0.1888,59.75,clean
+0.1930,61.02,clean
+0.1973,61.74,clean
+0.2015,62.41,clean
+0.2057,62.88,clean
+0.2100,62.86,clean
+0.2142,63.23,clean
+0.2185,63.65,clean
+0.2227,63.67,clean
+0.2270,63.70,clean
+0.2312,64.21,clean
+0.2355,67.04,clean
+0.2397,67.81,clean
+0.2439,68.33,clean
+0.2482,68.77,clean
+0.2524,69.17,clean
+0.2567,69.85,clean
+0.2609,72.09,clean
+0.2652,73.00,clean
+0.2694,73.56,clean
+0.2737,74.30,clean
+0.2779,75.13,clean
+0.2821,75.57,clean
+0.2864,75.93,clean
+0.2906,76.90,clean
+0.2949,77.26,clean
+0.2991,77.67,clean
+0.3034,78.05,clean
+0.3076,78.15,clean
+0.3119,78.14,clean
+0.3161,78.62,clean
+0.3204,78.96,clean
+0.3246,78.95,clean
+0.3288,79.31,clean
+0.3331,79.74,clean
+0.3373,79.79,clean
+0.3416,79.79,clean
+0.3458,80.24,clean
+0.3501,81.39,clean
+0.3543,81.47,clean
+0.3586,82.36,clean
+0.3628,82.38,clean
+0.3670,83.19,clean
+0.3713,84.07,clean
+0.3755,84.03,clean
+0.3798,83.99,clean
+0.3840,84.07,clean
+0.3883,84.86,clean
+0.3925,85.61,clean
+0.4732,89.03,clean
+0.4774,89.12,clean
+0.4816,89.55,clean
+0.4859,90.13,clean
+0.4901,90.75,clean
+0.4944,90.82,clean
+0.4986,91.21,clean
+0.5029,91.70,clean
+0.5071,91.78,clean
+0.5114,92.06,clean
+0.5156,92.40,clean
+0.5199,92.40,clean
+0.5241,92.45,clean
+0.5283,92.42,clean
+0.5326,92.52,clean
+0.5368,92.51,clean
+0.5411,92.45,clean
+0.5453,92.92,clean
+0.5496,92.98,clean
+0.5538,93.34,clean
+0.5581,93.41,clean
+0.5623,94.21,clean
+0.5665,94.19,clean
+0.5708,94.68,clean
+0.5750,94.99,clean
+0.5793,95.44,clean
+0.5835,96.42,clean
+0.5878,96.75,clean
+0.5920,96.79,clean
+0.5963,96.83,clean
+0.6005,97.15,clean
+0.6047,97.96,clean
+0.6090,98.36,clean
+0.6132,98.44,clean
+0.6175,98.43,clean
+0.6217,98.49,clean
+0.6260,98.47,clean
+0.6302,98.47,clean
+0.6345,98.48,clean
+0.6387,98.47,clean
+0.6429,98.99,clean
+0.6472,99.33,clean
+0.6514,99.35,clean
+0.6557,99.42,clean
+0.6599,99.99,clean
+0.6642,100.16,clean
+0.6684,100.60,clean
+0.6727,100.92,clean
+0.6769,101.05,clean
+0.6811,101.19,clean
+0.6854,101.39,clean
+0.6896,101.84,clean
+0.6939,102.25,clean
+0.6981,102.62,clean
+0.7024,102.68,clean
+0.7066,102.63,clean
+0.7109,102.65,clean
+0.7151,102.67,clean
+0.7194,102.67,clean
+0.7236,102.71,clean
+0.7278,103.10,clean
+0.7321,103.16,clean
+0.7363,103.45,clean
+0.7406,103.90,clean
+0.7448,104.45,clean
+0.7491,104.38,clean
+0.7533,104.41,clean
+0.7576,104.38,clean
+0.7618,104.44,clean
+0.7660,104.43,clean
+0.7703,104.44,clean
+0.7745,104.53,clean
+0.7788,105.20,clean
+0.7830,105.24,clean
+0.7873,105.23,clean
+0.7915,105.23,clean
+0.7958,105.27,clean
+0.8000,105.27,clean
+0.8042,105.67,clean
+0.8085,105.69,clean
+0.8127,106.11,clean
+0.8170,106.10,clean
+0.8212,106.11,clean
+0.8255,106.11,clean
+0.8297,106.09,clean
+0.8340,106.11,clean
+0.8382,106.10,clean
+0.8424,106.09,clean
+0.8467,106.13,clean
+0.8509,106.38,clean
+0.8552,106.51,clean
+0.8594,107.02,clean
+0.8637,107.81,clean
+0.8679,108.23,clean
+0.8722,108.28,clean
+0.8764,108.31,clean
+0.8806,108.63,clean
+0.8849,108.95,clean
+0.8891,109.50,clean
+0.8934,109.47,clean
+0.8976,109.93,clean
+0.9019,109.82,clean
+0.9061,109.61,clean
+0.9104,110.21,clean
+0.9146,110.34,clean
+0.9189,110.61,clean
+0.9231,110.76,clean
+0.9273,110.82,clean
+0.9316,111.24,clean
+0.9358,110.84,clean
+0.9401,111.19,clean
+0.9443,111.65,clean
+0.9486,111.57,clean
+0.9528,111.94,clean
+0.9571,112.47,clean
+0.9613,112.86,clean
+0.9655,112.85,clean
+0.9698,112.89,clean
+0.9740,112.88,clean
+0.9783,112.94,clean
+0.9825,113.59,clean
+0.9868,113.71,clean
+0.9910,113.73,clean
+0.9953,113.77,clean
+0.9995,114.20,clean
+1.0037,113.69,clean
+1.0080,113.72,clean
+1.0122,113.76,clean
+1.0165,113.73,clean
+1.0207,113.73,clean
+1.0250,113.76,clean
+1.0292,113.77,clean
+1.0335,113.80,clean
+1.0377,114.02,clean
+1.0419,114.21,clean
+1.0462,114.57,clean
+1.0504,114.18,clean
+1.0547,114.26,clean
+1.0589,114.60,clean
+1.0632,114.62,clean
+1.0674,114.24,clean
+1.0717,114.88,clean
+1.0759,114.96,clean
+1.0801,114.62,clean
+1.0844,114.53,clean
+1.0886,115.05,clean
+1.0929,115.47,clean
+1.0971,115.14,clean
+1.1014,115.44,clean
+1.1056,115.44,clean
+1.1099,115.45,clean
+1.1141,115.43,clean
+1.1184,115.48,clean
+1.1226,115.38,clean
+1.1268,115.76,clean
+1.1311,115.34,clean
+1.1353,115.43,clean
+1.1396,115.01,clean
+1.1438,115.58,clean
+1.1481,116.16,clean
+1.1523,116.31,clean
+1.1566,115.09,clean
+1.1608,115.96,clean
+1.1650,116.31,clean
+1.1693,115.80,clean
+1.1735,114.65,clean
+1.1778,115.00,clean
+1.1820,115.43,clean
+1.1863,115.45,clean
+1.1905,115.45,clean
+1.1948,115.80,clean
+1.1990,115.86,clean
+1.2032,114.31,clean
+1.2075,114.14,clean
+1.2117,115.74,clean
+1.2160,115.91,clean
+1.2202,115.53,clean
+1.2245,115.79,clean
+1.2287,116.66,clean
+1.2330,116.69,clean
+1.2372,117.49,clean
+1.2414,118.38,clean
+1.2457,118.12,clean
+1.2499,117.07,clean
+1.2542,117.48,S8-overlap (low confidence)
+1.2584,115.05,S8-overlap (low confidence)
+1.2627,114.65,S8-overlap (low confidence)
+1.2669,117.13,S8-overlap (low confidence)
+1.2712,117.13,S8-overlap (low confidence)
+1.2754,115.86,S8-overlap (low confidence)
+1.2796,117.63,S8-overlap (low confidence)
+1.2839,117.97,S8-overlap (low confidence)
+1.2881,118.36,S8-overlap (low confidence)
+1.2924,118.34,S8-overlap (low confidence)
+1.2966,119.49,S8-overlap (low confidence)
+1.3009,118.69,S8-overlap (low confidence)
+1.3051,118.35,S8-overlap (low confidence)
+1.3094,117.69,S8-overlap (low confidence)
+1.3179,117.04,S8-overlap (low confidence)
+1.3221,118.89,S8-overlap (low confidence)
+1.3263,119.39,S8-overlap (low confidence)
+1.3306,118.46,S8-overlap (low confidence)
+1.3348,118.07,S8-overlap (low confidence)
+1.3391,116.73,S8-overlap (low confidence)
+1.3433,117.56,S8-overlap (low confidence)
+1.3476,120.67,S8-overlap (low confidence)
+1.3518,120.53,S8-overlap (low confidence)
+1.3561,120.77,S8-overlap (low confidence)
+1.3603,120.90,S8-overlap (low confidence)
+1.3645,121.27,S8-overlap (low confidence)
+1.3688,122.32,S8-overlap (low confidence)
+1.3730,121.75,S8-overlap (low confidence)
+1.3773,122.05,S8-overlap (low confidence)
+1.3815,122.54,S8-overlap (low confidence)
+1.3858,123.89,S8-overlap (low confidence)
+1.3900,123.13,S8-overlap (low confidence)
+1.3943,123.93,S8-overlap (low confidence)
+1.3985,124.59,S8-overlap (low confidence)
+1.4027,125.67,S8-overlap (low confidence)
+1.4070,126.96,S8-overlap (low confidence)
+1.4112,125.56,S8-overlap (low confidence)
+1.4155,124.11,S8-overlap (low confidence)
+1.4197,126.30,S8-overlap (low confidence)
+1.4240,123.89,S8-overlap (low confidence)
+1.4282,124.68,S8-overlap (low confidence)
+1.4325,125.60,S8-overlap (low confidence)
+1.4367,123.70,S8-overlap (low confidence)
+1.4409,122.82,S8-overlap (low confidence)
+1.4452,123.08,S8-overlap (low confidence)
+1.4494,123.04,S8-overlap (low confidence)
+1.4537,123.47,S8-overlap (low confidence)
+1.4579,124.37,S8-overlap (low confidence)
+1.4622,123.82,S8-overlap (low confidence)
+1.4664,123.90,S8-overlap (low confidence)
+1.4707,123.95,S8-overlap (low confidence)
+1.4749,123.00,S8-overlap (low confidence)
+1.5131,124.87,clean
+1.5174,124.67,clean
+1.5216,124.73,clean
+1.5258,124.77,clean
+1.5301,124.72,clean
+1.5343,125.26,clean
+1.5386,125.57,clean
+1.5428,125.56,clean
+1.5471,125.58,clean
+1.5513,125.57,clean
+1.5556,125.97,clean
+1.5598,125.57,clean
+1.5640,125.56,clean
+1.5683,125.62,clean
+1.5725,126.53,clean
+1.5768,126.46,clean
+1.5810,126.42,clean
+1.5853,126.50,clean
+1.5895,126.50,clean
+1.5938,126.51,clean
+1.5980,126.51,clean
+1.6022,126.53,clean
+1.6065,126.51,clean
+1.6107,126.49,clean
+1.6150,126.45,clean
+1.6192,126.95,clean
+1.6235,127.29,clean
+1.6277,128.09,clean
+1.6320,127.71,clean
+1.6362,127.22,clean
+1.6404,127.22,clean
+1.6447,127.22,clean
+1.6489,127.22,clean
+1.6532,127.80,clean
+1.6574,127.66,clean
+1.6617,128.11,clean
+1.6659,128.10,clean
+1.6702,128.18,clean
+1.6744,128.18,clean
+1.6787,128.66,clean
+1.6829,128.99,clean
+1.6871,129.00,clean
+1.6914,129.53,clean
+1.6956,129.86,clean
+1.6999,129.87,clean
+1.7041,129.88,clean
+1.7084,129.88,clean
+1.7126,130.18,clean
+1.7169,130.61,clean
+1.7211,130.65,clean
+1.7253,130.67,clean
+1.7296,130.73,clean
+1.7338,131.05,clean
+1.7381,131.54,clean
+1.7423,131.46,clean
+1.7466,131.55,clean
+1.7508,131.55,clean
+1.7551,131.60,clean
+1.7593,131.59,clean
+1.7635,131.62,clean
+1.7678,131.65,clean
+1.7720,131.67,clean
+1.7763,131.98,clean
+1.7805,132.28,clean
+1.7848,132.12,clean
+1.7890,132.82,clean
+1.7933,132.46,clean
+1.7975,132.79,clean
+1.8017,132.78,clean
+1.8060,133.15,clean
+1.8102,133.76,clean
+1.8145,133.70,clean
+1.8187,133.70,clean
+1.8230,134.22,clean
+1.8272,134.79,clean
+1.8315,134.83,clean
+1.8357,134.91,clean
+1.8399,134.92,clean
+1.8442,134.96,clean
+1.8484,134.95,clean
+1.8527,135.25,clean
+1.8569,135.48,clean
+1.8612,135.49,clean
+1.8654,135.48,clean
+1.8697,135.79,clean
+1.8739,136.11,clean
+1.8782,135.79,clean
+1.8824,135.92,clean
+1.8866,136.25,clean
+1.8909,136.25,clean
+1.8951,136.14,clean
+1.8994,136.15,clean
+1.9036,137.08,clean
+1.9079,136.49,clean
+1.9121,136.57,clean
+1.9164,136.54,clean
+1.9206,136.57,clean
+1.9248,136.57,clean
+1.9291,136.60,clean
+1.9333,136.63,clean
+1.9376,136.62,clean
+1.9418,136.59,clean
+1.9461,136.59,clean
+1.9503,136.60,clean
+1.9546,136.60,clean
+1.9588,136.64,clean
+1.9630,136.63,clean
+1.9673,136.67,clean
+1.9715,136.71,clean
+1.9758,136.67,clean
