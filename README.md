@@ -1,7 +1,7 @@
 # Supplementary code
 
 **A Unified 3D Multi-Spring Framework for Evaluating the Multidirectional Bearing Capacity of Multi-pod Suction Bucket Foundations**
-(submitted to Computers and Geotechnics)
+(manuscript submitted for publication)
 
 This package holds the MATLAB implementation of the 3D multi-spring (Winkler) model used in the paper. It contains every
 run setting needed to reproduce the analyses of the main text and the Supplementary Material, and the post-processing that
@@ -140,7 +140,7 @@ Measured with MATLAB R2024b on the authors' workstation (two MATLAB sessions run
 
 Please cite the paper named above and this code:
 
-Hadadi, S., 2026. multipod-suction-bucket: 3D multi-spring model of multi-pod suction bucket foundations (Version 1.0)
+Hadadi, S., 2026. multipod-suction-bucket: 3D multi-spring model of multi-pod suction bucket foundations (Version 1.1)
 [software]. GitHub. https://github.com/sinahdme/multipod-suction-bucket.
 
 ## Licence
